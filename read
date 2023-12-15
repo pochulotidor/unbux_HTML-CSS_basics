@@ -1,0 +1,10 @@
+# Unbux HTML and CSS basics
+You can refer to the examples codes here. You can `git clone` or download directly the file.
+
+## Useful resources
+
+### HTML introduction w3schools
+    - https://www.w3schools.com/html/html_intro.asp
+
+### CSS introduction w3schools
+    - https://www.w3schools.com/css/css_intro.asp
